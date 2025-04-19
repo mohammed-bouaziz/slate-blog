@@ -105,6 +105,10 @@ params:
       SiteVerificationTag: "XYZabc"
     yandex:
       SiteVerificationTag: "XYZabc"
+  
+  services:
+    disqus:
+      shortname: mobodev
 
   cover:
     hidden: true # hide everywhere but not in structured data
