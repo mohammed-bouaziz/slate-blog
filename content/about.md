@@ -22,7 +22,7 @@ Whether you're a technician, enthusiast or just passing by, you are welcome to r
 ### My Background 
 
 
-![Mo's profile picture](/images/profile-pic.png)
+![Mo's profile picture](/images/profile-pic 1-small.png)
 
 
 I've been a software engineer for almost a decade now (still am), I've worked in various industries with corporations and startups. Some of them are Veolia, IBM, Coca-Cola and Shell, just to name a few. I'm also an AI researcher in the Computer Science Department at the University of Sciences in Casablanca, Morocco. 
