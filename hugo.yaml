@@ -1,5 +1,5 @@
 baseURL: "https://serafyk.com/"
-title: Serfyk
+title: Serfykee
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -47,15 +47,9 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Slate"
-    icon: /apple-touch-icon.png
+    text: ""
+    icon: /images/logo.svg
     iconHeight: 35
-  
-  outputs:
-    home:
-      - HTML
-      - RSS
-      - JSON
 
   # profile-mode
   profileMode:
@@ -136,6 +130,16 @@ menu:
       name: about
       url: /about/
       weight: 30
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 40 
+
+outputs:
+    home:
+      - HTML
+      - RSS
+      - JSON
 
 services:
     disqus:
