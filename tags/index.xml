@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on SlateAI</title>
-    <link>https://seraphike.com/tags/</link>
+    <link>https://serafyk.com/tags/</link>
     <description>Recent content in Tags on SlateAI</description>
     <image>
       <title>SlateAI</title>
-      <url>https://seraphike.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://seraphike.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://serafyk.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://serafyk.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
-    <atom:link href="https://seraphike.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://serafyk.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Backend</title>
-      <link>https://seraphike.com/tags/backend/</link>
+      <link>https://serafyk.com/tags/backend/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://seraphike.com/tags/backend/</guid>
+      <guid>https://serafyk.com/tags/backend/</guid>
       <description></description>
     </item>
     <item>
       <title>Development</title>
-      <link>https://seraphike.com/tags/development/</link>
+      <link>https://serafyk.com/tags/development/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://seraphike.com/tags/development/</guid>
+      <guid>https://serafyk.com/tags/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Performance</title>
-      <link>https://seraphike.com/tags/performance/</link>
+      <link>https://serafyk.com/tags/performance/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://seraphike.com/tags/performance/</guid>
+      <guid>https://serafyk.com/tags/performance/</guid>
       <description></description>
     </item>
   </channel>
