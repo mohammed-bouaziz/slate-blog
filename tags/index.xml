@@ -11,8 +11,29 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://serafyk.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LLMs</title>
+      <link>https://serafyk.com/tags/llms/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://serafyk.com/tags/llms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NLP</title>
+      <link>https://serafyk.com/tags/nlp/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://serafyk.com/tags/nlp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transformers</title>
+      <link>https://serafyk.com/tags/transformers/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://serafyk.com/tags/transformers/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Backend</title>
       <link>https://serafyk.com/tags/backend/</link>

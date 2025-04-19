@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://serafyk.com/categories/ai/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://serafyk.com/categories/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://serafyk.com/tags/llms/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://serafyk.com/tags/nlp/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://serafyk.com/posts/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://serafyk.com/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://serafyk.com/tags/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://serafyk.com/tags/transformers/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://serafyk.com/posts/understanding-attention-mechanisms-in-large-language-models/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://serafyk.com/tags/backend/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
@@ -13,16 +40,5 @@
   </url><url>
     <loc>https://serafyk.com/tags/performance/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://serafyk.com/posts/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://serafyk.com/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://serafyk.com/tags/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://serafyk.com/categories/</loc>
   </url>
 </urlset>

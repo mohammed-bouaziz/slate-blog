@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://serafyk.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding Attention Mechanisms in Large Language Models</title>
+      <link>https://serafyk.com/posts/understanding-attention-mechanisms-in-large-language-models/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://serafyk.com/posts/understanding-attention-mechanisms-in-large-language-models/</guid>
+      <description>The transformer architecture revolutionized natural language processing, and at its core lies the attention mechanism - perhaps one of the most important innovations in modern AI. Let&amp;#39;s break down how attention works and why it matters.</description>
+    </item>
     <item>
       <title>Implementing Effective Caching Strategies in Modern Web Applications</title>
       <link>https://serafyk.com/posts/1/</link>

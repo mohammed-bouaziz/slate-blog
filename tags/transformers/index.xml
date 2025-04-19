@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>SlateAI</title>
-    <link>https://serafyk.com/</link>
-    <description>Recent content on SlateAI</description>
+    <title>Transformers on SlateAI</title>
+    <link>https://serafyk.com/tags/transformers/</link>
+    <description>Recent content in Transformers on SlateAI</description>
     <image>
       <title>SlateAI</title>
       <url>https://serafyk.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,20 +12,13 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 19 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://serafyk.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://serafyk.com/tags/transformers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Attention Mechanisms in Large Language Models</title>
       <link>https://serafyk.com/posts/understanding-attention-mechanisms-in-large-language-models/</link>
       <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://serafyk.com/posts/understanding-attention-mechanisms-in-large-language-models/</guid>
       <description>The transformer architecture revolutionized natural language processing, and at its core lies the attention mechanism - perhaps one of the most important innovations in modern AI. Let&amp;#39;s break down how attention works and why it matters.</description>
-    </item>
-    <item>
-      <title>Implementing Effective Caching Strategies in Modern Web Applications</title>
-      <link>https://serafyk.com/posts/1/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://serafyk.com/posts/1/</guid>
-      <description>In today&amp;#39;s digital landscape, user experience is paramount. One of the most effective ways to enhance performance and reduce load times is through strategic caching.</description>
     </item>
   </channel>
 </rss>
