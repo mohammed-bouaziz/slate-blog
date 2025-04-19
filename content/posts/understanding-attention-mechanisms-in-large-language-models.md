@@ -42,9 +42,9 @@ For each position, the model calculates compatibility scores between its query a
 
 The formula looks something like this:
 
-```
+$$
 Attention(Q, K, V) = softmax(QK^T / √d_k)V
-```
+$$
 
 Where `d_k` is the dimension of the key vectors, and the scaling factor `√d_k` prevents extremely small gradients.
 
