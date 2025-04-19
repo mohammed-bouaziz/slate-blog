@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Backend on SlateAI</title>
-    <link>https://seraphike.com/tags/backend/</link>
+    <link>https://serafyk.com/tags/backend/</link>
     <description>Recent content in Backend on SlateAI</description>
     <image>
       <title>SlateAI</title>
-      <url>https://seraphike.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://seraphike.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://serafyk.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://serafyk.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
-    <atom:link href="https://seraphike.com/tags/backend/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://serafyk.com/tags/backend/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Implementing Effective Caching Strategies in Modern Web Applications</title>
-      <link>https://seraphike.com/posts/1/</link>
+      <link>https://serafyk.com/posts/1/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://seraphike.com/posts/1/</guid>
+      <guid>https://serafyk.com/posts/1/</guid>
       <description>In today&amp;#39;s digital landscape, user experience is paramount. One of the most effective ways to enhance performance and reduce load times is through strategic caching.</description>
     </item>
   </channel>
