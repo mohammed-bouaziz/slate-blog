@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://serafyk.com/"
 title: SlateAI
 theme: PaperMod
 
@@ -54,7 +54,7 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
+    title: serafyk.com
     subtitle: "This is subtitle"
     imageUrl: "<img location>"
     imageWidth: 120
@@ -113,10 +113,6 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
