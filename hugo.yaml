@@ -13,7 +13,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: SlateAI
+  title: Serafyk
   description: "A blog about ai"
   keywords: [Blog, AI, Machine Learning]
   author: Mohammed Bouaziz
