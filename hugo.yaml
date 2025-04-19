@@ -87,16 +87,16 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Serafyk AI"
+    Content: AI courses, scientific papers and insights 
 
   socialIcons:
     - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://x.com/SimoSeraf"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/mohammed-bouaziz/"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/mohammed-bouaziz"
 
   analytics:
     google:
@@ -133,7 +133,7 @@ menu:
       url: /tags/
       weight: 20
     - identifier: about
-      name: About
+      name: about
       url: /about/
       weight: 30
 
