@@ -105,10 +105,6 @@ params:
       SiteVerificationTag: "XYZabc"
     yandex:
       SiteVerificationTag: "XYZabc"
-  
-  services:
-    disqus:
-      shortname: mobodev
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -136,6 +132,10 @@ menu:
       name: tags
       url: /tags/
       weight: 20
+
+services:
+    disqus:
+      shortname: mobodev
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
