@@ -9,6 +9,13 @@
     <lastBuildDate>Sat, 19 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://serafyk.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About Serafyk</title>
+      <link>https://serafyk.com/about/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://serafyk.com/about/</guid>
+      <description>Learn more about Serafyk, the author, and this blog&amp;rsquo;s mission</description>
+    </item>
+    <item>
       <title>Understanding Attention Mechanisms in Large Language Models</title>
       <link>https://serafyk.com/posts/understanding-attention-mechanisms-in-large-language-models/</link>
       <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
